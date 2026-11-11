@@ -33,14 +33,14 @@ window.SITE = {
       who: "Tout le monde", desc: "Les process pas à pas : trouver un client, recruter, prendre des RDV, souscrire.",
       keys: "process comment faire etapes methode systeme",
       subs: [
-        { title: "Trouver et accompagner un client (R0 → suivi)", drive: "1I2EYtHPfAW6tjqqBM9qX5wpsiRo4IHtX",
+        { title: "Process / Système – Trouver et accompagner un client (R0 → suivi) (🚧 En construction)", drive: "1I2EYtHPfAW6tjqqBM9qX5wpsiRo4IHtX",
           desc: "Du premier contact à la mise en place, puis le suivi : C1 créer la relation, C2 inviter, R0, R1, R2, R3.",
           keys: "client investisseur r0 r1 r2 r3 c1 c2 c3 c4 c5 rendez-vous decouverte preconisation objections mise en place suivi pitch charges incompressibles susciter interet",
           olds: [
             { t: "Le process investisseur, du R0 au suivi", id: "1whzgMPUyMjxiJ4Rv4KV-oqq1W935ujtJ" },
             { t: "Susciter l'intérêt", id: "16NjBMELgZzzskeERGbdpuGnU1dl2OatM" }
           ] },
-        { title: "Recruter et faire démarrer un filleul (PO → démarrage)", drive: "1vTd31DmPX6v4v5Aop09gbWFqsdiSJdzB",
+        { title: "Process / Système – Recruter et faire démarrer un filleul (PO → démarrage) (🚧 En construction)", drive: "1vTd31DmPX6v4v5Aop09gbWFqsdiSJdzB",
           desc: "Présenter l'opportunité, accompagner la décision, parrainer et aider le filleul à démarrer.",
           keys: "filleul recruter recrutement parrainer parrainage po opportunite c6 demarrage filleul parrainage intentionnel",
           olds: [
@@ -48,22 +48,22 @@ window.SITE = {
             { t: "Process démarrage filleul", id: "1N7Yk79SwI4dsq4wI2g4-bqOc30RkEmky" },
             { t: "Le parrainage intentionnel", id: "1jjT45zkE_9ZFHhboFi9R0MRu3jIsbXMf" }
           ] },
-        { title: "Prendre des RDV", drive: "1TBLENdIQZJlY7ZoiR_lFyj2_A6mC2doZ",
+        { title: "Process / Système – Prendre des RDV (🚧 En construction)", drive: "1TBLENdIQZJlY7ZoiR_lFyj2_A6mC2doZ",
           desc: "Scripts et méthode pour décrocher tes rendez-vous.", keys: "rdv rendez-vous appeler telephone script prise de rdv",
           olds: [ { t: "Comment prendre des RDV", id: "1zcLuD9f7UQfYeJaTl0hj-uDA3NzBsxMM" } ] },
-        { title: "Fixer son objectif", drive: "1QPZg3lM_NZKOez_JeblwECPT0K8si_tk",
+        { title: "Process / Système – Fixer son objectif (🚧 En construction)", drive: "1QPZg3lM_NZKOez_JeblwECPT0K8si_tk",
           desc: "Combien de R1 il te faut pour atteindre ton objectif.", keys: "objectif nombre de r1 calcul combien",
           olds: [ { t: "Déterminer le nombre de R1 selon mon objectif", id: "1eAlxfXAsDRdaQ_VxFKGnfHknb5Z0kV7-" } ] },
-        { title: "Promouvoir les événements (C7)", drive: "1YcnLFGNyiEyuT4JOCONye4HcTx8s6_UM",
+        { title: "Process / Système – Promouvoir les événements (C7) (🚧 En construction)", drive: "1YcnLFGNyiEyuT4JOCONye4HcTx8s6_UM",
           desc: "Inviter ton équipe et tes prospects aux événements.", keys: "c7 evenement evenements inviter promouvoir convention forum mindmaster",
           olds: [
             { t: "C7 – Promouvoir les événements", id: "1Q2V4WtsbVYsRl70Ma21FUS9kAWblmWqE" },
             { t: "Savoir promouvoir les événements", id: "1iXGRnp0XsFCmteDBXtokfV8M42GWvgET" }
           ] },
-        { title: "Souscrire une solution", drive: "12jtUdKF2qv8wSuOMJPyGFSecftmbZLtp",
+        { title: "Process / Système – Souscrire une solution (🚧 En construction)", drive: "12jtUdKF2qv8wSuOMJPyGFSecftmbZLtp",
           desc: "Les process de souscription sont rangés dans chaque solution : ouvre « Ce qu'on propose aux clients ».",
           keys: "souscrire souscription bulletin dossier contrat signer", link: "propose" },
-        { title: "Les 14 systèmes", drive: "1aBPvXyYLFVsUD84R_X-0pl67ANXokMbs",
+        { title: "Process / Système – Les 14 systèmes (🚧 En construction)", drive: "1aBPvXyYLFVsUD84R_X-0pl67ANXokMbs",
           desc: "Les systèmes d'Eric Worre adaptés à notre activité. En préparation.", keys: "systemes worre 14 systemes",
           olds: [] },
         { title: "À trier", desc: "Contenu en cours de répartition dans les bons process.", keys: "savoir faire",
